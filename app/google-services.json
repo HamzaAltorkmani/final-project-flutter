@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "601616673502",
+    "project_id": "kitchen-app-d05da",
+    "storage_bucket": "kitchen-app-d05da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601616673502:android:57dd28496b54a22ba1f04f",
+        "android_client_info": {
+          "package_name": "com.kitchenmadam.hossam.madam_kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601616673502-fpal7cg90f3u5449rm2s9vuoueun4n1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kitchenmadam.hossam.madam_kitchen",
+            "certificate_hash": "a744ebe41987f569a7664f43d3275bb8ef08d9c1"
+          }
+        },
+        {
+          "client_id": "601616673502-i1n2p8o1eo0vivud0fvjbsnn1p2qvhnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByVMkyccf03AOvPUV7aG8ioWRyAADVl20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601616673502-i1n2p8o1eo0vivud0fvjbsnn1p2qvhnv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "601616673502-rabfrpuhgr4r49ms8hpv8697hm99fr7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kitchenmadam.hossam.madamKitchen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
